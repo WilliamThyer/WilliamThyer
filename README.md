@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello and welcome to my github! 
 
-<!--
-**WilliamThyer/WilliamThyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is William Thyer. I am a 4th year PhD studying psychology, cognitive neuroscience, and data science in the Awh/Vogel Lab at the University of Chicago. I was a data science intern at [Spark Neuro](https://medical.sparkneuro.com/) in 2021. This summer, I'll be working as a data science intern at [Intuitive Surgical](https://www.intuitive.com/en-us). I like Python, machine learning, and cycling!
 
-Here are some ideas to get you started:
+### Here are some of my favorite projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Analysis for my Psych Science paper](https://github.com/WilliamThyer/Thyer-et-al-2021)
+- [City Mapper package made with OSMnx](https://github.com/WilliamThyer/CityMapper)
+- [Vorpal, a fighting game with custom AI](https://github.com/WilliamThyer/Vorpal)
+- [Interactive generative line art with Bokeh](https://github.com/WilliamThyer/locations_of_lines)
+
+Have a question? Please reach out!
+
+I also have a personal website at [williamthyer.github.io](https://williamthyer.github.io/).
