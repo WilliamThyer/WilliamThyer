@@ -9,7 +9,7 @@ My name is William Thyer. I am a 4th year PhD studying psychology, cognitive neu
 - [City Mapper package made with OSMnx](https://github.com/WilliamThyer/CityMapper)
 - [Vorpal, a fighting game with custom AI](https://github.com/WilliamThyer/Vorpal)
 - [Interactive generative line art with Bokeh](https://github.com/WilliamThyer/locations_of_lines)
-- [A collection of courses, articles, and blogs I like](https://github.com/WilliamThyer/UsefulResources)   
+- [A collection of courses, articles, and blogs I like](https://williamthyer.github.io/posts/2022/3/useful_resources/)   
 
 Have a question? Please reach out!
 
