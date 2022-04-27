@@ -5,6 +5,7 @@ My name is William Thyer. I am a 4th year PhD studying psychology, cognitive neu
 ### Here are some of my favorite projects:
 
 - [Analysis for my published Psychological Science paper](https://github.com/WilliamThyer/Thyer-et-al-2021)
+- [Custom machine learning and data viz package for decoding EEG](https://github.com/AwhVogelLab/EEG_Decoder)
 - [Custom EEG preprocessing pipeline for the Awh/Vogel lab](https://github.com/AwhVogelLab/EEGLAB-Pipeline)
 - [City Mapper package made with OSMnx](https://github.com/WilliamThyer/CityMapper)
 - [Vorpal, a fighting game with custom AI](https://github.com/WilliamThyer/Vorpal)
