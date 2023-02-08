@@ -1,6 +1,6 @@
 ### Hello and welcome to my github! 
 
-My name is William Thyer. I am a 4th year PhD studying psychology, cognitive neuroscience, and data science in the Awh/Vogel Lab at the University of Chicago. I was a data science intern at [Spark Neuro](https://medical.sparkneuro.com/) in 2021. This summer, I'll be working as a data science intern at [Intuitive Surgical](https://www.intuitive.com/en-us). I like Python, machine learning, and cycling! 🐍🤖🚴
+My name is William Thyer. I am in the 5th and final year of my PhD studying psychology, cognitive neuroscience, and data science. I'm a member of the [Awh/Vogel Lab](https://awhvogellab.com) at the University of Chicago. I was previously a data science intern at [Spark Neuro](https://medical.sparkneuro.com/) in 2021 and at [Intuitive Surgical](https://www.intuitive.com/en-us) in 2022. You can access my [resume here](http://williamthyer.github.io/files/Thyer_William_Resume.pdf) and [CV here](http://williamthyer.github.io/files/thyer_william_cv.pdf). I like Python, machine learning, and cycling! 🐍🤖🚴
 
 ### Here are some of my favorite projects:
 
