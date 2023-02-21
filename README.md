@@ -6,10 +6,10 @@ My name is William Thyer. I am in the 5th and final year of my PhD studying psyc
 
 - [Analysis for my published Psychological Science paper](https://github.com/WilliamThyer/Thyer-et-al-2021)
 - [Custom machine learning and data viz package for decoding EEG](https://github.com/AwhVogelLab/EEG_Decoder)
+- [Calm Hands, a program to help reduce nail-biting using computer vision and AI](https://github.com/WilliamThyer/calm-hands)
 - [Custom EEG preprocessing pipeline for the Awh/Vogel lab](https://github.com/AwhVogelLab/EEGLAB-Pipeline)
 - [City Mapper package made with OSMnx](https://github.com/WilliamThyer/CityMapper)
 - [Vorpal, a fighting game with custom AI](https://github.com/WilliamThyer/Vorpal)
-- [Interactive generative line art with Bokeh](https://github.com/WilliamThyer/locations_of_lines)
 - [A collection of courses, articles, and blogs I like](https://williamthyer.github.io/posts/2022/3/useful_resources/)   
 
 Have a question? Please reach out!
